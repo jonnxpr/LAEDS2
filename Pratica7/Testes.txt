@@ -1,0 +1,145 @@
+Experimento 1:
+Distância: 0 para 0 = 0
+Distância: 0 para 1 = 3
+Distância: 0 para 2 = 9
+Distância: 0 para 3 = 6
+Distância: 0 para 4 = 9
+Distância: 0 para 5 = 9
+Distância: 0 para 6 = 10
+Distância: 0 para 7 = 18
+
+
+Antecessor: 0 = -1
+Antecessor: 1 = 0
+Antecessor: 2 = 1
+Antecessor: 3 = 1
+Antecessor: 4 = 0
+Antecessor: 5 = 3
+Antecessor: 6 = 5
+Antecessor: 7 = 4
+
+Caminhos:
+Legenda: de onde para onde / vértices do caminho
+
+0 para 0
+0
+
+0 para 1
+0 1
+
+0 para 2
+0 1 2
+
+0 para 3
+0 1 3
+
+0 para 4
+0 4
+
+0 para 5
+0 1 3 5
+
+0 para 6
+0 1 3 5 6
+
+0 para 7
+0 4 7
+_______________________________________________________
+
+Experimento 2:
+
+Distância: 0 para 0 = 0
+Distância: 0 para 1 = 5
+Distância: 0 para 2 = 1
+Distância: 0 para 3 = 6
+Distância: 0 para 4 = 21
+Distância: 0 para 5 = 14
+Distância: 0 para 6 = 9
+Distância: 0 para 7 = Infinito
+Distância: 0 para 8 = Infinito
+Distância: 0 para 9 = 17
+Distância: 0 para 10 = 7
+Distância: 0 para 11 = 8
+Distância: 0 para 12 = Infinito
+Distância: 0 para 13 = 21
+Distância: 0 para 14 = 1
+Distância: 0 para 15 = 8
+Distância: 0 para 16 = 9
+Distância: 0 para 17 = 14
+
+
+Antecessor: 0 = -1
+Antecessor: 1 = 0
+Antecessor: 2 = 0
+Antecessor: 3 = 2
+Antecessor: 4 = 5
+Antecessor: 5 = 1
+Antecessor: 6 = 2
+Antecessor: 7 = -1
+Antecessor: 8 = -1
+Antecessor: 9 = 6
+Antecessor: 10 = 3
+Antecessor: 11 = 14
+Antecessor: 12 = -1
+Antecessor: 13 = 17
+Antecessor: 14 = 0
+Antecessor: 15 = 14
+Antecessor: 16 = 15
+Antecessor: 17 = 10
+
+Caminhos:
+Legenda: de onde para onde / vértices do caminho
+
+0 para 0
+0
+
+0 para 1
+0 1
+
+0 para 2
+0 1 2
+
+0 para 3
+0 2 3
+
+0 para 4
+0 1 5 4
+
+0 para 5
+0 1 5
+
+0 para 6
+0 2 6
+
+0 para 7
+Inexistente
+
+0 para 8
+Inexistente
+
+0 para 9
+0 2 6 9
+
+0 para 10
+0 2 3 10
+
+0 para 11
+0 14 11
+
+0 para 12
+Inexistente
+
+0 para 13
+0 2 3 10 17 13
+
+0 para 14
+0 14
+
+0 para 15
+0 14 15
+
+0 para 16
+0 14 15 16
+
+0 para 17
+0 2 3 10 17

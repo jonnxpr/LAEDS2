@@ -1,0 +1,176 @@
+Experimento 1:
+
+10000-
+comparações = 17
+visitadas = 8
+
+20000-
+comparações = 16
+visitadas = 9
+
+30000-
+comparações = 18
+visitadas = 9
+
+40000-
+comparações = 19
+visitadas = 10
+
+50000-
+comparações = 21
+visitadas = 10
+
+60000-
+comparações = 19
+visitadas = 10
+
+70000-
+comparações = 19
+visitadas = 10
+
+80000-
+comparações = 17
+visitadas = 10
+
+90000-
+comparações = 19
+visitadas = 10
+
+100000-
+comparações = 21
+visitadas = 10
+
+
+_____________________________________________________________________
+
+Experimento 2:
+
+10000-
+Comparações = 19
+Paginas visitadas = 6
+
+20000-
+Comparações = 23
+Paginas visitadas = 6
+
+30000-
+Comparações = 27
+Paginas visitadas = 6
+
+40000-
+Comparações = 26
+Paginas visitadas = 7
+
+50000-
+Comparações = 22
+Paginas visitadas = 7
+
+60000-
+Comparações = 26
+Paginas visitadas = 7
+
+70000-
+Comparações = 26
+Paginas visitadas = 7
+
+80000-
+Comparações = 26
+Paginas visitadas = 7
+
+90000-
+Comparações = 30
+Paginas visitadas = 7
+
+100000-
+Comparações = 26
+Paginas visitadas = 7
+
+_____________________________________________________________________
+
+Experimento 3:
+
+
+
+10000-
+Comparações = 45
+Paginas visitadas = 4
+
+20000-
+Comparações = 44
+Paginas visitadas = 5
+
+30000-
+Comparações = 44
+Paginas visitadas = 5
+
+40000-
+Comparações = 52
+Paginas visitadas = 5
+
+50000-
+Comparações = 52
+Paginas visitadas = 5
+
+60000-
+Comparações = 52
+Paginas visitadas = 5
+
+70000-
+Comparações = 52
+Paginas visitadas = 5
+
+80000-
+Comparações = 52
+Paginas visitadas = 5
+
+90000-
+Comparações = 52
+Paginas visitadas = 5
+
+100000-
+Comparações = 52
+Paginas visitadas = 5
+_____________________________________________________________________
+
+Experimento 4:
+
+10000-
+Comparações = 61
+Paginas visitadas = 4
+
+20000-
+Comparações = 61
+Paginas visitadas = 4
+
+30000-
+Comparações = 77
+Paginas visitadas = 4
+
+40000-
+Comparações = 61
+Paginas visitadas = 4
+
+50000-
+Comparações = 61
+Paginas visitadas = 4
+
+60000-
+Comparações = 77
+Paginas visitadas = 4
+
+70000-
+Comparações = 77
+Paginas visitadas = 4
+
+80000-
+Comparações = 93
+Paginas visitadas = 4
+
+90000-
+Comparações = 77
+Paginas visitadas = 4
+
+100000-
+Comparações = 77
+Paginas visitadas = 4
+

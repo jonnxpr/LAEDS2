@@ -1,0 +1,80 @@
+Experimento 1:
+
+1000-
+1001 comparações
+248880 nanoseconds
+
+2000-
+2001 comparações
+474352 nanoseconds
+
+3000-
+3001 comparações
+545758 nanoseconds
+
+4000-
+4001 comparações
+654198 nanoseconds
+
+5000-
+5001 comparações
+747231 nanoseconds
+
+6000-
+6001 comparações
+823377 nanoseconds
+
+7000-
+7001 comparações
+854486 nanoseconds
+
+8000-
+8001 comparações
+925595 nanoseconds
+
+9000-
+9001 comparações
+1013888 nanoseconds
+
+_____________________________________________________________________
+
+Experimento 2:
+
+1000-
+20310 comparações
+889 nanoseconds
+
+2000-
+50491 comparações
+593 nanoseconds
+
+3000-
+76869 comparações
+888 nanoseconds
+
+
+4000-
+114939 comparações
+593 nanoseconds
+
+5000-
+144359 comparações
+888 nanoseconds
+
+6000-
+169250 comparações
+593 nanoseconds
+
+7000-
+190458 comparações
+297 nanoseconds
+
+8000-
+246095 comparações
+296 nanoseconds
+
+9000-
+273353 comparações
+592 nanoseconds
+
+

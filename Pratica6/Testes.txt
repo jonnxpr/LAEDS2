@@ -1,0 +1,136 @@
+Experimento 1:
+
+Grafo 1:
+
+Distâncias vértice: 0
+Distancia 0 -> 0 = 0
+Distancia 0 -> 1 = 9
+Distancia 0 -> 2 = 1
+Distancia 0 -> 3 = 5
+Distancia 0 -> 4 = 2
+Distancia 0 -> 5 = 4
+Distancia 0 -> 6 = 3
+Distancia 0 -> 7 = 5
+
+
+Lista predecessores:
+Predecessor 0 -> 0 = -1
+Predecessor 0 -> 1 = -1
+Predecessor 0 -> 2 = 0
+Predecessor 0 -> 3 = 5
+Predecessor 0 -> 4 = 2
+Predecessor 0 -> 5 = 6
+Predecessor 0 -> 6 = 4
+Predecessor 0 -> 7 = 5
+
+Grafo 2:
+
+Distâncias vértice: 0
+Distancia 0 -> 0 = 0
+Distancia 0 -> 1 = 4
+Distancia 0 -> 2 = 5
+Distancia 0 -> 3 = 6
+Distancia 0 -> 4 = 2
+Distancia 0 -> 5 = 3
+Distancia 0 -> 6 = 7
+Distancia 0 -> 7 = 1
+Distancia 0 -> 8 = 10
+Distancia 0 -> 9 = 8
+Distancia 0 -> 10 = 11
+Distancia 0 -> 11 = 11
+Distancia 0 -> 12 = 9
+Distancia 0 -> 13 = 9
+Distancia 0 -> 14 = 1
+Distancia 0 -> 15 = 19
+Distancia 0 -> 16 = 19
+Distancia 0 -> 17 = 10
+
+
+Lista predecessores:
+Predecessor 0 -> 0 = -1
+Predecessor 0 -> 1 = 5
+Predecessor 0 -> 2 = 1
+Predecessor 0 -> 3 = 2
+Predecessor 0 -> 4 = 7
+Predecessor 0 -> 5 = 4
+Predecessor 0 -> 6 = 3
+Predecessor 0 -> 7 = 0
+Predecessor 0 -> 8 = 12
+Predecessor 0 -> 9 = 6
+Predecessor 0 -> 10 = 17
+Predecessor 0 -> 11 = 8
+Predecessor 0 -> 12 = 9
+Predecessor 0 -> 13 = 9
+Predecessor 0 -> 14 = 0
+Predecessor 0 -> 15 = -1
+Predecessor 0 -> 16 = -1
+Predecessor 0 -> 17 = 13
+_______________________________________________________
+
+Experimento 2:
+
+Grafo 1:
+Distâncias vértice: 4
+Distancia 4 -> 0 = 9
+Distancia 4 -> 1 = 9
+Distancia 4 -> 2 = 2
+Distancia 4 -> 3 = 3
+Distancia 4 -> 4 = 0
+Distancia 4 -> 5 = 2
+Distancia 4 -> 6 = 1
+Distancia 4 -> 7 = 3
+
+
+Lista predecessores:
+Predecessor 4 -> 0 = -1
+Predecessor 4 -> 1 = -1
+Predecessor 4 -> 2 = 6
+Predecessor 4 -> 3 = 5
+Predecessor 4 -> 4 = -1
+Predecessor 4 -> 5 = 6
+Predecessor 4 -> 6 = 4
+Predecessor 4 -> 7 = 5
+
+Grafo 2:
+
+Distâncias vértice: 4
+Distancia 4 -> 0 = 1
+Distancia 4 -> 1 = 2
+Distancia 4 -> 2 = 3
+Distancia 4 -> 3 = 4
+Distancia 4 -> 4 = 0
+Distancia 4 -> 5 = 1
+Distancia 4 -> 6 = 5
+Distancia 4 -> 7 = 2
+Distancia 4 -> 8 = 8
+Distancia 4 -> 9 = 6
+Distancia 4 -> 10 = 9
+Distancia 4 -> 11 = 9
+Distancia 4 -> 12 = 7
+Distancia 4 -> 13 = 7
+Distancia 4 -> 14 = 2
+Distancia 4 -> 15 = 19
+Distancia 4 -> 16 = 19
+Distancia 4 -> 17 = 8
+
+
+Lista predecessores:
+Predecessor 4 -> 0 = 4
+Predecessor 4 -> 1 = 5
+Predecessor 4 -> 2 = 1
+Predecessor 4 -> 3 = 2
+Predecessor 4 -> 4 = -1
+Predecessor 4 -> 5 = 4
+Predecessor 4 -> 6 = 3
+Predecessor 4 -> 7 = 0
+Predecessor 4 -> 8 = 12
+Predecessor 4 -> 9 = 6
+Predecessor 4 -> 10 = 17
+Predecessor 4 -> 11 = 8
+Predecessor 4 -> 12 = 9
+Predecessor 4 -> 13 = 9
+Predecessor 4 -> 14 = 0
+Predecessor 4 -> 15 = -1
+Predecessor 4 -> 16 = -1
+Predecessor 4 -> 17 = 13
+

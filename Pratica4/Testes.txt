@@ -1,0 +1,196 @@
+Experimento 1:
+
+10000-
+trocas = 9991
+
+20000-
+trocas = 19990
+
+30000-
+trocas = 29989
+
+40000-
+trocas = 39989
+
+50000-
+trocas = 49990
+
+60000-
+trocas = 59988
+
+70000-
+trocas = 69990
+
+80000-
+trocas = 79988
+
+90000-
+trocas = 89987
+
+100000-
+trocas = 99989
+
+HEAPSORT
+
+10000-
+trocashsort = 9998
+
+20000-
+trocashsort = 19998
+
+30000-
+trocashsort = 29998
+
+40000-
+trocashsort = 39998
+
+50000-
+trocashsort = 49998
+
+60000-
+trocashsort = 59998
+
+70000-
+trocashsort = 69998
+
+80000-
+trocashsort = 79998
+
+90000-
+trocashsort = 89998
+
+100000-
+trocashsort = 99998
+
+
+_____________________________________________________________________
+
+Experimento 2:
+
+10000-
+trocas = 9992
+trocashsort = 9999
+
+20000-
+trocas = 19991
+trocashsort = 19999
+
+30000-
+trocas = 29990
+trocashsort = 29999
+
+40000-
+trocas = 39990
+trocashsort = 39999
+
+50000-
+trocas = 49991
+trocashsort = 49999
+
+60000-
+trocas = 59989
+trocashsort = 59999
+
+70000-
+trocas = 69991
+trocashsort = 69999
+
+80000-
+trocas = 79989
+trocashsort = 79999
+
+90000-
+trocas = 89988
+trocashsort = 89999
+
+100000-
+trocas = 99990
+trocashsort = 99999
+
+_____________________________________________________________________
+
+Experimento 3:
+
+10000-
+trocas = 7425
+trocashsort = 9998
+
+20000-
+trocas = 14874
+trocashsort = 19998
+
+30000-
+trocas = 22293
+trocashsort = 29998
+
+40000-
+trocas = 29697
+trocashsort = 39998
+
+50000-
+trocas = 37077
+trocashsort = 49998
+
+60000-
+trocas = 44439
+trocashsort = 59998
+
+70000-
+trocas = 52157
+trocashsort = 69998
+
+80000-
+trocas = 59451
+trocashsort = 79998
+
+90000-
+trocas = 67138
+trocashsort = 89998
+
+100000-
+trocas = 74652
+trocashsort = 99998
+_____________________________________________________________________
+
+Experimento 4:
+
+10000-
+Comparações = 61
+Paginas visitadas = 4
+
+20000-
+Comparações = 61
+Paginas visitadas = 4
+
+30000-
+Comparações = 77
+Paginas visitadas = 4
+
+40000-
+Comparações = 61
+Paginas visitadas = 4
+
+50000-
+Comparações = 61
+Paginas visitadas = 4
+
+60000-
+Comparações = 77
+Paginas visitadas = 4
+
+70000-
+Comparações = 77
+Paginas visitadas = 4
+
+80000-
+Comparações = 93
+Paginas visitadas = 4
+
+90000-
+Comparações = 77
+Paginas visitadas = 4
+
+100000-
+Comparações = 77
+Paginas visitadas = 4
+

@@ -1,0 +1,162 @@
+Experimento 1:
+
+10000-
+Tamanho arv = 13
+8334 nanoseconds
+19.0 nós visitados
+
+20000-
+Tamanho arv = 14
+5058 nanoseconds
+20.0 nós visitados
+
+30000-
+Tamanho arv = 14
+5249 nanoseconds
+22.0 nós visitados
+
+40000-
+Tamanho arv = 15
+5892 nanoseconds
+21.0 nós visitados
+
+50000-
+Tamanho arv = 15
+7851 nanoseconds
+22.0 nós visitados
+
+60000-
+Tamanho arv = 15
+5442 nanoseconds
+23.0 nós visitados
+
+70000-
+Tamanho arv = 16
+9463 nanoseconds
+23.0 nós visitados
+
+80000-
+Tamanho arv = 16
+10309 nanoseconds
+22.0 nós visitados
+
+90000-
+Tamanho arv = 16
+10598 nanoseconds
+26.0 nós visitados
+
+100000-
+Tamanho arv = 16
+12500 nanoseconds
+23.0 nós visitados
+
+_____________________________________________________________________
+
+Experimento 2:
+
+10000-
+Tamanho arv = 10
+1149 nanoseconds
+135685.0 nós visitados
+
+20000-
+Tamanho arv = 10
+653 nanoseconds
+299084.0 nós visitados
+
+30000-
+Tamanho arv = 11
+688 nanoseconds
+475195.0 nós visitados
+
+40000-
+Tamanho arv = 11
+809 nanoseconds
+664047.0 nós visitados
+
+50000-
+Tamanho arv = 12
+921 nanoseconds
+860248.0 nós visitados
+
+60000-
+Tamanho arv = 12
+5109 nanoseconds
+1070893.0 nós visitados
+
+70000-
+Tamanho arv = 12
+5660 nanoseconds
+1292448.0 nós visitados
+
+80000-
+Tamanho arv = 12
+5771 nanoseconds
+1523543.0 nós visitados
+
+90000-
+Tamanho arv = 12
+6514 nanoseconds
+1763444.0 nós visitados
+
+100000-
+Tamanho arv = 12
+5698 nanoseconds
+2009267.0 nós visitados
+
+_____________________________________________________________________
+
+Experimento 3:
+
+5-
+Tamanho arv = 2
+1441 nanoseconds
+16.0 nós visitados
+
+10-
+Tamanho arv = 3
+2542 nanoseconds
+38.0 nós visitados
+
+50-
+Tamanho arv = 4
+1515 nanoseconds
+275.0 nós visitados
+
+100-
+Tamanho arv = 5
+5887 nanoseconds
+646.0 nós visitados
+
+500-
+Tamanho arv = 7
+897 nanoseconds
+4461.0 nós visitados
+
+1000-
+Tamanho arv = 7
+934 nanoseconds
+10028.0 nós visitados
+
+5000-
+Tamanho arv = 9
+845 nanoseconds
+61846.0 nós visitados
+
+10000-
+Tamanho arv = 10
+718 nanoseconds
+135674.0 nós visitados
+
+50000-
+Tamanho arv = 12
+1087 nanoseconds
+863426.0 nós visitados
+
+100000-
+Tamanho arv = 12
+6474 nanoseconds
+2012849.0 nós visitados
+
+
+
